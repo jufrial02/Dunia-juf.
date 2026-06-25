@@ -1,5 +1,3 @@
-console.log("Dunia Juf dimulai...");
-
 const player = document.getElementById("player");
 
 let x = window.innerWidth / 2;
