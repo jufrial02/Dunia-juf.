@@ -14,3 +14,16 @@ body{
     font-family:sans-serif;
     color:white;
 }
+#game{
+    width:100vw;
+    height:100vh;
+    position:relative;
+}
+
+#player{
+    position:absolute;
+    left:50%;
+    top:50%;
+    transform:translate(-50%,-50%);
+    font-size:50px;
+}
